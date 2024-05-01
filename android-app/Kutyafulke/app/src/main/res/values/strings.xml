@@ -52,7 +52,8 @@
     <string name="dog_test_button_label">Submit</string>
     <string name="dog_test_result_label">Result</string>
     <string name="log_out_label">Log out</string>
-    <string name="dog_test_color_question_label">Which color combination do you like most in a dog?</string>
+    <string name="dog_test_color_question_label">What color combination of dog would you like?
+</string>
     <string name="dog_test_size_question_label">How much space would you have available for your future dog in your house or yard?</string>
     <string name="dog_test_feeding_question_label">How much do you want your future dog to eat?</string>
     <string name="dog_test_hair_length_question_label">How much do you want your future dog to have a long coat?</string>

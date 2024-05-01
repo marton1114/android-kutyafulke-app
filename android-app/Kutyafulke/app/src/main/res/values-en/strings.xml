@@ -66,7 +66,7 @@
     <string name="dog_test_independence_question_label">How often will you leave your future dog alone?</string>
     <string name="dog_test_deffensiveness_question_label">How protective do you want your future dog to be?</string>
     <string name="main_screen_title_label">Kutyafülke</string>
-    <string name="dog_test_color_question_label">Which color combination do you like most in a dog?</string>
+    <string name="dog_test_color_question_label">What color combination of dog would you like?</string>
     <string name="dog_test_button_label">Submit</string>
     <string name="dog_test_result_label">Result</string>
     <string name="log_out_label">Log out</string>
